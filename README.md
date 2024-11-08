@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @grannyMOO, so don't take my name
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... AP Calculus AB and AP Physics 1
-- 💞️ I’m looking to collaborate on ...actually I don't want to collaborate
-- 📫 How to reach me ... I guess you don't
+- 👋 Hi, I’m Alayna.
+- 👀 I’m interested in crochet, piano, programming, and personal growth.
+- 🌱 I’m currently a freshman in college majoring in Computer Science.
 
 <!---
 grannyMOO/grannyMOO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
